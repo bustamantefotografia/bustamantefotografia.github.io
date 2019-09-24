@@ -38,13 +38,14 @@
     "versionPublish": "4.10.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/favicon-32x32.png",
+    "favicon": "@PROJECT_PATH@/assets/images/tb-icon-128x66.png",
     "noImageResize": "",
     "siteFonts": [],
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": "on"
+    "robotsSwitcher": "on",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
