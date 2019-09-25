@@ -2773,15 +2773,15 @@ body {
   display: none;
 }
 .cid-qOt99DeppF {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/eu2.gif");
 }
 .cid-qOt99DeppF .title {
   margin-bottom: 2rem;
 }
 .cid-qOt99DeppF .mbr-section-subtitle {
-  color: #767676;
+  color: #ff3366;
 }
 .cid-qOt99DeppF a:not([href]):not([tabindex]) {
   color: #fff;
