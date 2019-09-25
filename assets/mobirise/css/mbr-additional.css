@@ -1796,7 +1796,7 @@ body {
 }
 .cid-qQG9B4NzDJ {
   padding-top: 120px;
-  padding-bottom: 90px;
+  padding-bottom: 75px;
 }
 .cid-qQG9B4NzDJ .icons-media-container {
   display: flex;
@@ -2361,6 +2361,9 @@ body {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-qOmLtGqgg0 H5 {
+  color: #ff3366;
 }
 .cid-qOmmmptA7M .navbar {
   padding: .5rem 0;
